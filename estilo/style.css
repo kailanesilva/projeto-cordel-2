@@ -39,7 +39,7 @@ section{
     padding-bottom: 8vh;
     font-size: 3vw;
     padding-left: 25px;
-    font-family: 'Bad Script', cursive;
+    font-family: var(--fonte-principal);
     font-weight: bold;
 }
 
